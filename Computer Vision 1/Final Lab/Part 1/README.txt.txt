@@ -1,0 +1,1 @@
+If your PC doesn't have GIT there will be a problem with CLIP, we didn't manage to make this built in the yaml file.
